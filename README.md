@@ -5,11 +5,22 @@ This is a fully Ukrainian-localized matrix calculator with comments in Ukrainian
 
 ---
 
-## Example Matrix
+## Приклад матриці
 
-Here’s an example of how a matrix looks:
+Ось приклад того, як виглядає матриця:
 
-![Matrix Image](src/img/photo_2024-11-14_14-47-33.jpg)
+![Зображення матриці 1](src/img/photo_1.jpg)
+
+## Інші приклади
+
+Ось ще кілька прикладів:
+
+![Зображення матриці 2](src/img/photo_2.jpg)
+
+![Зображення матриці 3](src/img/photo_3.jpg)
+
+![Зображення матриці 4](src/img/photo_4.jpg)
+
 
 ---
 # Встановлення та запуск програми для роботи з матрицями
