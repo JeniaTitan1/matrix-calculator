@@ -18,9 +18,7 @@ This is a fully Ukrainian-localized matrix calculator with comments in Ukrainian
 
 2.1 **Завантажте код проєкту**.
 
-## Крок 3: Встановлення необхідних бібліотек 
-
-(не обов’язково, код буде працювати з існуючою бібліотекою)
+## Крок 3: Встановлення необхідних бібліотек :
 
 3.1. **Створіть віртуальне середовище** (рекомендується, але не обов’язково):
    - Відкрийте термінал або командний рядок.
@@ -43,7 +41,6 @@ This is a fully Ukrainian-localized matrix calculator with comments in Ukrainian
      pyperclip
      ```
    - Встановіть бібліотеки, виконавши команду
-   - (не обов’язково, код буде працювати з існуючою бібліотекою):
      ```bash
      pip install -r requirements.txt
      ```
