@@ -5,6 +5,13 @@ This is a fully Ukrainian-localized matrix calculator with comments in Ukrainian
 
 ---
 
+## Example Matrix
+
+Here’s an example of how a matrix looks:
+
+![Matrix Image](src/img/photo_2024-11-14_14-47-33.jpg)
+
+---
 # Встановлення та запуск програми для роботи з матрицями
 
 ## Крок 1: Встановлення Python
