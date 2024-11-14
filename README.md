@@ -9,17 +9,17 @@ This is a fully Ukrainian-localized matrix calculator with comments in Ukrainian
 
 Ось приклад того, як виглядає матриця:
 
-![Зображення матриці 1](src/img/photo_1.jpg)
+![Зображення матриці 1](src/img/photo1.jpg)
 
 ## Інші приклади
 
 Ось ще кілька прикладів:
 
-![Зображення матриці 2](src/img/photo_2.jpg)
+![Зображення матриці 2](src/img/photo2.jpg)
 
-![Зображення матриці 3](src/img/photo_3.jpg)
+![Зображення матриці 3](src/img/photo3.jpg)
 
-![Зображення матриці 4](src/img/photo_4.jpg)
+![Зображення матриці 4](src/img/photo4.jpg)
 
 
 ---
